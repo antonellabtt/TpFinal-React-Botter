@@ -43,7 +43,10 @@ Divido la navegabilidad en 3 gifs porque los servidores lo muestran muy lentos s
 Mostrando el Home del sitio, la navegacion por categoria y el detalle de los productos.
 
 
-![cargando gif](https://firebasestorage.googleapis.com/v0/b/boholand-store.appspot.com/o/navegabilidad-1.gif?alt=media&token=f6ff4b64-fb86-49f1-b446-ff7c39565b2c)
+<!-- ![cargando gif](https://firebasestorage.googleapis.com/v0/b/boholand-store.appspot.com/o/navegabilidad-1.gif?alt=media&token=f6ff4b64-fb86-49f1-b446-ff7c39565b2c) -->
+
+![cargando gif](https://github.com/antonellabtt/TpFinal-React-Botter/blob/master/src/assets/navegabilidad-1.gif?raw=true)
+
 
 
 * **PARTE 2**
