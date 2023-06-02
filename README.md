@@ -42,9 +42,6 @@ Divido la navegabilidad en 3 gifs porque los servidores lo muestran muy lentos s
 
 Mostrando el Home del sitio, la navegacion por categoria y el detalle de los productos.
 
-
-<!-- ![cargando gif](https://firebasestorage.googleapis.com/v0/b/boholand-store.appspot.com/o/navegabilidad-1.gif?alt=media&token=f6ff4b64-fb86-49f1-b446-ff7c39565b2c) -->
-
 ![cargando gif](https://github.com/antonellabtt/TpFinal-React-Botter/blob/master/src/assets/navegabilidad-1.gif?raw=true)
 
 
@@ -53,11 +50,11 @@ Mostrando el Home del sitio, la navegacion por categoria y el detalle de los pro
 
 Mostrando como se agregan productos al carrito, como se ve el mismo, eliminando productos de a uno y vaciando el carrito
 
-![cargando gif](https://firebasestorage.googleapis.com/v0/b/boholand-store.appspot.com/o/navegabilidad-2.gif?alt=media&token=4c0351d8-9fb3-4a0e-8541-7b985215dd3c)
+![cargando gif](https://raw.githubusercontent.com/antonellabtt/TpFinal-React-Botter/master/src/assets/navegabilidad-2.gif)
 
 
 * **PARTE 3**
 
 Mostrando como se agregan los productos al carrito, y como se finaliza la compra, se accede al form para llenar los datos de finalizacion de compra, en dicho form se puede regresar para volver a ver el pedido si se quiere. Una vez llenado los datos se envia la orden de compra y se muestra  una notificacion de confirmacion, con el ID real de la orden de compra realizada.
 
-![cargando gif](https://firebasestorage.googleapis.com/v0/b/boholand-store.appspot.com/o/navegabilidad-3.gif?alt=media&token=91e6d810-188f-41b7-af9c-dd1ef1ae0f27)
+![cargando gif](https://raw.githubusercontent.com/antonellabtt/TpFinal-React-Botter/master/src/assets/navegabilidad-3.gif)
